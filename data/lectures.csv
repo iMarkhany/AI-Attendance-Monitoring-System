@@ -1,0 +1,7 @@
+lecture_id,title,lecturer_id,started_at,ended_at,active
+L1_Algorithms,L1 Algorithms,lec_smith,2026-05-01T22:01:50,2026-05-01T22:01:50,False
+L2_DistSecurity,L2 DistSecurity,lec_jones,2026-05-01T22:01:50,2026-05-01T22:01:50,False
+L3_Forensics,L3 Forensics,lec_smith,2026-05-01T22:01:50,2026-05-01T22:01:50,False
+L4_Networks,L4 Networks,lec_lee,2026-05-01T22:01:50,2026-05-01T22:01:50,False
+L5_AI,L5 AI,lec_jones,2026-05-01T22:01:50,2026-05-01T22:01:51,False
+L_live,Live Demo,prof_live,2026-05-01T22:42:43,,True
